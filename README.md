@@ -19,7 +19,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/arthur-junio32" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arthur-junio32" height="30" width="40" /></a>
 <a href="https://instagram.com/arthur_wingd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arthur_wingd" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/=" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="=" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
