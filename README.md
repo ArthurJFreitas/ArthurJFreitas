@@ -8,15 +8,15 @@
 
 ```javascript
 const arthur = {
- const name = "Arthur Freitas"
- var birthDate = new Date("12/22/1998")
- var acknowledgements = "Full-stack"
- var languages = ["JavaScript", "React", "Node.js", "Python", "PHP", "Graphql", "React Testing Library", "Jest", "Cypress"]
+  name: "Arthur Freitas",
+  birthDate: new Date("12/22/1998"),
+  acknowledgments: "Full-stack",
+  languages: ["JavaScript", "React", "Node.js", "Python", "PHP", "GraphQL", "React Testing Library", "Jest", "Cypress"],
 
   toString() {
-    return `Hi I'm ${this.name}, a ${this.acknowledgements} developer`;
+    return `Hi, I'm ${this.name}, a ${this.acknowledgements} developer`;
   }
-}
+};
 ```
 
 ## **Linguagens e Ferramentas:**  
