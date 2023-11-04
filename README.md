@@ -8,7 +8,7 @@
 
 ```javascript
 const arthur = {
- const name = "Arthur Junio Freitas Da Silva"
+ const name = "Arthur Freitas"
  var birthDate = new Date("12/22/1998")
  var acknowledgements = "Full-stack"
  var languages = ["JavaScript", "React", "Node.js", "Python", "PHP", "Graphql", "React Testing Library", "Jest", "Cypress"]
