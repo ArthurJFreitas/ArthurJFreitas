@@ -11,8 +11,7 @@ const arthur = {
   name: "Arthur Freitas",
   birthDate: new Date("12/22/1998"),
   acknowledgments: "Full-stack",
-  languages: ["JavaScript", "React", "Node.js", "Python", "PHP", "GraphQL", "React Testing Library", "Jest", "Cypress"],
-
+  techs: ["JavaScript", "React", "Node.js", "Python", "PHP", "GraphQL", "React Testing Library", "Jest", "Cypress"],
   toString() {
     return `Hi, I'm ${this.name}, a ${this.acknowledgements} developer`;
   }
