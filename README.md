@@ -49,7 +49,7 @@ const arthur = {
 
 
 [instagram]: https://www.instagram.com/arthur_wingd/
-[linkedin]: https://www.linkedin.com/in/arthur-junio32/
+[linkedin]: https://www.linkedin.com/in/arthurfscode/
 <br>
 
 #### Rede Sociais!
