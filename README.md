@@ -17,13 +17,10 @@ const arthur = {
   }
 };
 ```
-
 [instagram]: https://www.instagram.com/arthur_wingd/
 [linkedin]: https://www.linkedin.com/in/arthurfscode/
 <br>
-
 #### Rede Sociais!
-
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
